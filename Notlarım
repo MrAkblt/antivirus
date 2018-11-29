@@ -1,0 +1,6 @@
+Binary karşılaştırmalarda aranan ifadenin aranacak ifadenin içinde bulunup bulunmadığı & ile bulunur.
+
+KAYNAKLAR :  
+https://docs.microsoft.com/en-us/windows/desktop/debug/pe-format
+https://gist.github.com/djhaskin987/d1860a7d98193913bcfa
+https://ring0.info/posts/pe-dosya-formatina-dalis
